@@ -6,7 +6,7 @@
 - Figma design - https://www.figma.com/file/IpMOuoqrIlJC6VM7Www24I/MyDoctor
 - WebRTC server repository - https://github.com/aystream/webrtc-node-server
 - Analytic dataset - https://github.com/ermolnik/MyDoctor/blob/master/stats.csv
-- Analytic decribe - https://github.com/ermolnik/MyDoctor/blob/master/statsDescribe.ipynb
+- Analytic describe - https://github.com/ermolnik/MyDoctor/blob/master/statsDescribe.ipynb
 
 
 <img src="https://github.com/ermolnik/MyDoctor/blob/master/appointment_screen.png" height="200" /><img src="https://github.com/ermolnik/MyDoctor/blob/master/video_screen.png" height="200" /><img src="https://github.com/ermolnik/MyDoctor/blob/master/feedback_screen.png" height="200" />
