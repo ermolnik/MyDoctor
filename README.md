@@ -3,6 +3,7 @@
 - Android application repository - https://github.com/ermolnik/medHack2019
 - Backend repository - https://github.com/aystream/medhack2019
 - Frontend appication repository - https://github.com/adevelopers/medhack2019
+- Figma design - https://www.figma.com/file/IpMOuoqrIlJC6VM7Www24I/MyDoctor
 - WebRTC server repository - https://github.com/aystream/webrtc-node-server
 - Analytic dataset - https://github.com/ermolnik/MyDoctor/blob/master/stats.csv
 - Analytic decribe - https://github.com/ermolnik/MyDoctor/blob/master/statsDescribe.ipynb
